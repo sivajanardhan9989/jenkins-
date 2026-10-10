@@ -9,8 +9,8 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<springframework.version>4.3.0.RELEASE</springframework.version>
-		<jackson.library>2.7.5</jackson.library>
+		<springframework.version>6.2.19</springframework.version>
+		<jackson.library>2.18.11</jackson.library>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
